@@ -2,4 +2,7 @@
 
 ## with React Redux React-transition
 
-use velocity.js for animation and bootstrap for styling
+
+Use library velocity.js for animation and bootstrap for styling
+
+demo: [TODO APP](https://frozen-hollows-66370.herokuapp.com/)
